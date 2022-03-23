@@ -1,0 +1,27 @@
+[
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_BuildingEscape2\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_BuildingEscape2\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_BuildingEscape2\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2GameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_BuildingEscape2\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BuildingEscape2\\\\Source\\\\BuildingEscape2\\\\BuildingEscape2GameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_BuildingEscape2\\BuildingEscape2.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    }
+]

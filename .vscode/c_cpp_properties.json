@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "BuildingEscape2Editor Editor Win64 Development (BuildingEscape2)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_BuildingEscape2.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BuildingEscape2\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
